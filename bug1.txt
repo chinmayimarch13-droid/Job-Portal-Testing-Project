@@ -1,0 +1,8 @@
+Bug Title:Login button not respond
+steps:
+1.Open login page
+2.Enter credentials
+3.Click login
+Expected: user should login
+Actual: Nothing happens
+Severity: High
