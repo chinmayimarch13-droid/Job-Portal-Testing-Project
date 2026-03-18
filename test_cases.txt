@@ -1,0 +1,13 @@
+Test case 1: Login Functionality
+Steps:
+1.Open login page
+2.Enter username and password
+3.Click login
+Expected result:
+User should login successfully
+Test case 2: Invalid Login
+Step:
+1.Enter wrong credentials
+2.Click login
+Expected Result:
+Error message should display
